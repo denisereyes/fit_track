@@ -1,0 +1,21 @@
+The Persona
+    - Name
+        - Matt
+    - Characteristics
+        - Cares about their health
+            - Likes to cook
+        - Likes to go on the internet
+    - Behaviors and attitudes
+        - Disorganized
+        - Unmotivated
+    - Goal
+        - Loose weight
+
+The User Story
+    As User, 
+    I want to enter my information,
+    so that I can see a personalized page.
+
+The Acceptance Requirements
+    - Enter information 
+    - Display information on separate page

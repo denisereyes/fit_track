@@ -1,0 +1,17 @@
+Part One
+    Learnability
+        Split Forms
+        Labels and Icons
+        Gradient to guide eyes
+    Efficiency
+        Split Forms
+        Labels and Icons
+        1-2 Steps
+    Memorability
+        Icons
+        Using sections
+            Navbar
+            Weight
+            Calorie
+Part Two
+    Placing two buttons with  “Update”  next to each other

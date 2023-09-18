@@ -1,0 +1,37 @@
+Application Vision/Goal: A basic fitness tracker where a user can have a hub with all their information.
+	-Weight tracking
+	-Goals
+	-Calorie intake/outake 
+
+Scope: Website 
+
+Deliverables:
+	Planning
+		-Create a feature list
+		-List and create our models
+
+	Frontend
+		-Design the app
+		-Break down the design into an atomic structure
+
+	Backend
+		-Learn Flask
+		-Rest API’s
+
+Success Criteria: application vision/goal is met 
+
+Assumptions: User might leave things blank or use the website only a couple of times
+
+Risks: security, some user gains access to another users account
+
+Design / Architectural Review: Frontend - atomic design, backend - rest apis 
+
+Test Environment: All web browsers, Docker, frontend - node.js, bbackend - python3.9:alpine
+
+Team Members: Itays , Denise 
+
+Team Roles: Fronted - Itays, Backend - Denise 
+
+Team Norms: 
+	Application Stack: flask, tinydb, react, node.js
+	Libraries/Frameworks: Flask, Tinydb, react

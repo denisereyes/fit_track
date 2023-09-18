@@ -1,0 +1,50 @@
+What are the costs vs budget?
+- Budget is $0
+- Cost is ~$0
+
+What is the timeframe?
+- I need the project by the end of the semester
+
+What problem are you trying to solve?
+- I want to be able to track my weight and see the history
+- I need to track my calories in and calories out
+- I want a goal of what calories count I should go for based on if I’m looking to gain/lose/maintain weight 
+
+What is the most important feature?	
+- Being able to track my calories/weight aligning with the daily goal set by the application.
+
+Is there a similar product on the market? 
+- Yes the market is saturated however these applications often focus on many different aspects of health. I want this to have one specific function which is weight tracking through calories count. This will allow for very simple and easy access.
+
+Are there any existing product or technologies that will need to be integrated?
+- I need support for all web browsers.
+- What does success look like? 
+- If I’m able to keep track of my weight and successfully reach my goals.
+
+What does success look like? 
+- If I’m able to keep track of my weight and successfully reach my goals.
+
+What risks are associated with a malicious user?
+- Getting access to some else's account.
+
+What is the lifetime of this software?
+- It should last a lifetime. 
+
+What additional features would you like?
+- Weight tracking
+    - History
+        - What time I put the information in
+        - What day
+        - Week total / total
+- Goal setting
+    - Calories
+        - Net
+    - Weight
+        - Pounds/week
+- Be able to change from Lbs and Kgs
+- Calories tracking
+    - Net - Day
+    - Intake - Day
+    - Outtake - Day
+    - History
+        - Average of the week

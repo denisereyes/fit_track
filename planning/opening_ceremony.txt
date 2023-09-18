@@ -1,0 +1,56 @@
+- Front End
+    - JS/React
+
+- Back End
+    - Python/Flask
+    
+
+How will you use this application?
+    Fitness tracker through the web
+
+Where would the user be located physically when using this application?
+    At home
+
+Where would the results be visible?
+    Through web browser
+
+When will this application be used?
+    Through out the day
+
+When can the application fail?
+    User input, Interface
+    Requesting data from the DB
+    Posting data to the DB
+
+Who is my user?
+    Health conscientious person
+
+Who will deliver the inputs for the application?
+    The user
+
+Who will receive the outputs of the application?
+    The user
+    
+What do I know about this application?
+    Its a single page web app
+
+What does this application need to do?
+    Allow a person to track their weight and calorie intake base on the goals set by the application.
+    Give them selves weekly challenges to stay motivated.
+    Receive exercise reconditions based on their current calories count.
+
+What are the components of this application?
+    Authentication
+    Weight tracker
+    Calorie tracker
+    Challenges
+    Exercise recommendations
+
+What needs to happen next?
+    Design components and architecture 
+
+What must happen before the next step?
+    Planning
+
+What needs to be tracked?
+    Progress

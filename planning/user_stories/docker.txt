@@ -1,0 +1,4 @@
+As a client, I want an application that I can deploy on any server running Docker
+
+The Acceptance Requirements
+    - Have hello world appear on the web

@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+  
+  }
+  
+  body {
+    background: #2B4D2B 0% 0% no-repeat padding-box;
+    max-width: 1920px;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  

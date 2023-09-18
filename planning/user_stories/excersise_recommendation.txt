@@ -1,0 +1,24 @@
+The Persona
+    - Name
+        - Sam
+    - Characteristics
+        - Cares about their health
+            - Athletic
+            - Likes to cook
+            - Eats a lot
+        - Likes to go on the internet
+    - Behaviors and attitudes
+        - Organized
+        - Methodical
+    - Goal
+        - Maintain
+
+The User Story
+    As User, 
+    I want to exercise recommendations,
+    so that I can meet my calories goal if I'm over the limit.
+
+The Acceptance Requirements
+    - View current surplus of calories
+    - Offer an exercise that will burn the surplus of calories
+

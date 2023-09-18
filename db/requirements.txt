@@ -1,0 +1,8 @@
+###### Everareen Reouirements ＃####＃
+requests
+flask_cors 
+pymongo
+dnspython
+
+###### Requirements with Version Specifiers ######
+Flask>=2.0

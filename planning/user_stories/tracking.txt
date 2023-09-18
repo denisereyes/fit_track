@@ -1,0 +1,22 @@
+The Persona
+    - Name
+        - Bob
+    - Characteristics
+        - Cares about their health
+            - Athletic
+            - Likes to cook
+        - Likes to go on the internet
+    - Behaviors and attitudes
+        - Disorganized
+        - Determined
+    - Goal
+        - Gain
+
+The User Story
+    As User, 
+    I want to track my weight and calories intake,
+    so that I can reach my daily and weekly goals.
+
+The Acceptance Requirements
+    - User input
+    - Update the goals
